@@ -19,7 +19,7 @@
       "line2": "student Inżynierii Oprogramowania"
     },
     "description": "Buduję platformy webowe oparte na danych, łącząc niezawodną architekturę backendu z ekspresyjnymi interfejsami. Obecnie pracuję jako fullstack developer, pomagając miastom i społecznościom podejmować lepsze, bardziej zielone decyzje dzięki technologii.",
-    "university": "Politechnika Żytomierska · Licencjat z Inżynierii Oprogramowania",
+    "university": "Politechnika Żytomierska (Zhytomyr Polytechnika) · Licencjat z Inżynierii Oprogramowania",
     "ctaPrimary": "Poznaj projekty",
     "ctaSecondary": "Porozmawiajmy",
     "highlights": [
@@ -91,7 +91,7 @@
   "about": {
     "eyebrow": "O mnie",
     "title": "Rozwiązuję wyzwania społeczne przemyślanym kodem",
-    "description": "Jestem studentem drugiego roku Inżynierii Oprogramowania na Politechnice Żytomierskiej, pracuję jako fullstack developer i badam, jak dane i design mogą przyspieszyć zrównoważony rozwój miast.",
+    "description": "Jestem studentem drugiego roku Inżynierii Oprogramowania na Politechnice Żytomierskiej (Zhytomyr Polytechnika), pracuję jako fullstack developer i badam, jak dane i design mogą przyspieszyć zrównoważony rozwój miast.",
     "story": {
       "heading": "Od klubu robotyki do fullstack development",
       "paragraph1": "Zacząłem od lutowania czujników w szkolnym klubie robotyki. Ta ciekawość zaprowadziła mnie do programowania narzędzi, które łączą dane z ludźmi korzystającymi z nich na co dzień.",
@@ -99,9 +99,22 @@
     },
     "uni": {
       "heading": "Edukacja",
-      "name": "Politechnika Żytomierska",
+      "name": "Politechnika Żytomierska (Zhytomyr Polytechnika)",
       "program": "Licencjat z Inżynierii Oprogramowania — 2. rok",
-      "period": "2023 — obecnie"
+      "period": "2024 — obecnie"
+    },
+    "work": {
+      "heading": "Doświadczenie zawodowe",
+      "current": {
+        "position": "Fullstack Developer",
+        "company": "Ukraińska firma IT",
+        "period": "obecnie"
+      },
+      "previous": {
+        "position": "Fullstack Developer",
+        "company": "Freelance",
+        "period": "wcześniej"
+      }
     },
     "skills": {
       "title": "Umiejętności i narzędzia",
@@ -178,7 +191,7 @@
   },
   "seo": {
     "homeTitle": "Denys Zagorovskyi — portfolio fullstack developer",
-    "homeDescription": "Denys Zagorovskyi, student drugiego roku Inżynierii Oprogramowania na Politechnice Żytomierskiej i fullstack developer, tworzy produkty oparte na danych dla zrównoważonych miast i kampusów.",
+    "homeDescription": "Denys Zagorovskyi, student drugiego roku Inżynierii Oprogramowania na Politechnice Żytomierskiej (Zhytomyr Polytechnika) i fullstack developer, tworzy produkty oparte na danych dla zrównoważonych miast i kampusów.",
     "projectsTitle": "Projekty — Denys Zagorovskyi",
     "projectsDescription": "Poznaj civic-tech dashboardy, narzędzia planowania zajęć i aplikacje ekologiczne zbudowane w React, Next.js i TypeScript.",
     "aboutTitle": "O mnie — Denys Zagorovskyi",
