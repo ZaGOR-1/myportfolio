@@ -15,7 +15,7 @@
   "home": {
     "eyebrow": "Second-year student · Fullstack Developer",
     "heroTitle": {
-      "line1": "Denys Zagorovskyi —",
+      "line1": "Denys Zahorovskyi —",
       "line2": "Software Engineering Student"
     },
     "description": "I build data-powered web platforms that combine reliable backend architecture with expressive interfaces. Currently working as a fullstack developer, helping cities and communities make better, greener decisions through technology.",
@@ -175,9 +175,9 @@
       "note": "We can chat in Ukrainian, English, or Polish — whichever makes collaboration smoother."
     },
     "links": {
-      "linkedin": "@denys-zagorovskyi",
-      "github": "@d-zagorovskyi",
-      "telegram": "@zagorovskyi_denys"
+      "linkedin": "@denys-zahorovskyi",
+      "github": "@d-zahorovskyi",
+      "telegram": "@zahorovskyi_denys"
     }
   },
   "footer": {
@@ -190,13 +190,13 @@
     "telegram": "Telegram"
   },
   "seo": {
-    "homeTitle": "Denys Zagorovskyi — Fullstack Developer Portfolio",
-    "homeDescription": "Denys Zagorovskyi is a second-year Software Engineering student at Zhytomyr Polytechnika and a fullstack developer building data-driven products for sustainable cities and campuses.",
-    "projectsTitle": "Projects — Denys Zagorovskyi",
+    "homeTitle": "Denys Zahorovskyi — Fullstack Developer Portfolio",
+    "homeDescription": "Denys Zahorovskyi is a second-year Software Engineering student at Zhytomyr Polytechnika and a fullstack developer building data-driven products for sustainable cities and campuses.",
+    "projectsTitle": "Projects — Denys Zahorovskyi",
     "projectsDescription": "Explore civic-tech dashboards, campus scheduling tools, and environmental apps crafted with React, Next.js, and TypeScript.",
-    "aboutTitle": "About — Denys Zagorovskyi",
-    "aboutDescription": "Learn about Denys Zagorovskyi, his journey into fullstack development and civic tech, favourite tools, and the principles guiding his work.",
-    "contactTitle": "Contact — Denys Zagorovskyi",
-    "contactDescription": "Reach out to Denys Zagorovskyi for internships, collaborations, research partnerships, or community initiatives."
+    "aboutTitle": "About — Denys Zahorovskyi",
+    "aboutDescription": "Learn about Denys Zahorovskyi, his journey into fullstack development and civic tech, favourite tools, and the principles guiding his work.",
+    "contactTitle": "Contact — Denys Zahorovskyi",
+    "contactDescription": "Reach out to Denys Zahorovskyi for internships, collaborations, research partnerships, or community initiatives."
   }
 }

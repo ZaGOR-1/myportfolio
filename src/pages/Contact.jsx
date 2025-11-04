@@ -7,17 +7,17 @@ import useDocumentTitle from '../hooks/useDocumentTitle.js';
 const socialLinks = [
   {
     labelKey: 'social.linkedin',
-    href: 'https://www.linkedin.com/in/denys-zagorovskyi/',
+    href: 'https://www.linkedin.com/in/denys-zahorovskyi/',
     usernameKey: 'contact.links.linkedin',
   },
   {
     labelKey: 'social.github',
-    href: 'https://github.com/d-zagorovskyi',
+    href: 'https://github.com/d-zahorovskyi',
     usernameKey: 'contact.links.github',
   },
   {
     labelKey: 'social.telegram',
-    href: 'https://t.me/zagorovskyi_denys',
+    href: 'https://t.me/zahorovskyi_denys',
     usernameKey: 'contact.links.telegram',
   },
 ];

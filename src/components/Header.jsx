@@ -40,7 +40,7 @@ const Header = () => {
               DZ
             </span>
             <span className="hidden text-sm font-medium text-slate-500 transition group-hover:text-slate-900 dark:text-slate-400 dark:group-hover:text-slate-100 sm:block">
-              Denys Zagorovskyi
+              Denys Zahorovskyi
             </span>
           </Link>
         </div>
