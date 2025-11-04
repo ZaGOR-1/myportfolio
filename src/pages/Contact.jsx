@@ -158,7 +158,7 @@ const Contact = () => {
                   href={link.href}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center justify-between rounded-2xl border border-slate-200/70 bg-slate-50 px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-accent-500 hover:text-accent-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent-500 dark:border-slate-700/60 dark:bg-slate-800/70 dark:text-slate-200"
+                  className="flex items-center justify-between rounded-2xl border border-slate-200/70 bg-slate-50 px-4 py-3 text-sm font-semibold text-slate-700 transition hover:border-accent-500 hover:text-accent-500 dark:border-slate-700/60 dark:bg-slate-800/70 dark:text-slate-200"
                 >
                   <span>{t(link.labelKey)}</span>
                   <span className="text-xs font-medium text-slate-500 dark:text-slate-400">{t(link.usernameKey)}</span>

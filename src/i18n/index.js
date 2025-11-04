@@ -1,83 +1,38 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
+import en from './locales/en/translation.json';
+import pl from './locales/pl/translation.json';
+import uk from './locales/uk/translation.json';
+
+const resources = {
+  en: { translation: en },
+  pl: { translation: pl },
+  uk: { translation: uk },
+};
 
 const fallbackLng = 'en';
-const supportedLngs = ['en', 'pl', 'uk'];
-const languageModules = import.meta.glob('./locales/*/translation.json');
-
 const defaultLng = () => {
   if (typeof window === 'undefined') {
     return 'uk';
   }
-
   const stored = window.localStorage.getItem('language');
-  if (stored && supportedLngs.includes(stored)) {
+  if (stored && Object.prototype.hasOwnProperty.call(resources, stored)) {
     return stored;
   }
-
   const browser = window.navigator.language.slice(0, 2);
-  return supportedLngs.includes(browser) ? browser : fallbackLng;
+  return Object.prototype.hasOwnProperty.call(resources, browser) ? browser : fallbackLng;
 };
 
-const loadLocale = async (lng) => {
-  const loader = languageModules[`./locales/${lng}/translation.json`];
-
-  if (!loader) {
-    throw new Error(`Missing translations for language: ${lng}`);
-  }
-
-  const module = await loader();
-  return module.default ?? module;
-};
-
-const backend = {
-  type: 'backend',
-  init() {},
-  read(language, namespace, callback) {
-    if (namespace !== 'translation') {
-      callback(null, {});
-      return;
-    }
-
-    loadLocale(language)
-      .then((resources) => {
-        callback(null, resources);
-      })
-      .catch((error) => {
-        callback(error, null);
-      });
+i18n.use(initReactI18next).init({
+  resources,
+  lng: defaultLng(),
+  fallbackLng,
+  supportedLngs: ['en', 'pl', 'uk'],
+  interpolation: {
+    escapeValue: false,
   },
-};
-
-let initialLanguage = defaultLng();
-let initialResources;
-
-try {
-  initialResources = await loadLocale(initialLanguage);
-} catch (error) {
-  console.warn(`[i18n] Falling back to ${fallbackLng} translations`, error);
-  initialLanguage = fallbackLng;
-  initialResources = await loadLocale(fallbackLng);
-}
-
-await i18n
-  .use(backend)
-  .use(initReactI18next)
-  .init({
-    fallbackLng,
-    lng: initialLanguage,
-    supportedLngs,
-    ns: ['translation'],
-    defaultNS: 'translation',
-    resources: initialResources ? { [initialLanguage]: { translation: initialResources } } : undefined,
-    interpolation: {
-      escapeValue: false,
-    },
-    returnObjects: true,
-    react: {
-      useSuspense: false,
-    },
-  });
+  returnObjects: true,
+});
 
 i18n.on('languageChanged', (lng) => {
   if (typeof window !== 'undefined') {

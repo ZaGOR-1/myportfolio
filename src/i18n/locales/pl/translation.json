@@ -74,20 +74,17 @@
       "cityPulse": {
         "title": "City Pulse Mobility Dashboard",
         "excerpt": "Monitor transportu łączący dane IoT z rozkładami miejskimi.",
-        "description": "Łączy sygnały GPS autobusów i liczniki pieszych, aby rada miasta Lwowa mogła ocenić zapotrzebowanie w godzinach szczytu. Odpowiadałem za wizualizacje map w React, przetwarzałem strumienie danych WebSocket oraz współpracowałem z badaczami UX, by panel działał na kioskach miejskich.",
-        "imageAlt": "Zrzut ekranu panelu City Pulse z mapą Lwowa w czasie rzeczywistym."
+        "description": "Łączy sygnały GPS autobusów i liczniki pieszych, aby rada miasta Lwowa mogła ocenić zapotrzebowanie w godzinach szczytu. Odpowiadałem za wizualizacje map w React, przetwarzałem strumienie danych WebSocket oraz współpracowałem z badaczami UX, by panel działał na kioskach miejskich."
       },
       "campusPlanner": {
         "title": "Campus Planner 360",
         "excerpt": "Asystent planowania łączący studentów, laboratoria i dostępność sprzętu.",
-        "description": "Projekt na zajęciach studyjnych, który zmniejsza konflikty między zajęciami laboratoryjnymi a pracą zespołową. Wprowadziłem role użytkowników, zintegrowałem PostgreSQL z Prismą i zautomatyzowałem powiadomienia poprzez boty Telegram używane przez ponad 300 studentów.",
-        "imageAlt": "Zrzut ekranu Campus Planner 360 z kartami rezerwacji laboratoriów."
+        "description": "Projekt na zajęciach studyjnych, który zmniejsza konflikty między zajęciami laboratoryjnymi a pracą zespołową. Wprowadziłem role użytkowników, zintegrowałem PostgreSQL z Prismą i zautomatyzowałem powiadomienia poprzez boty Telegram używane przez ponad 300 studentów."
       },
       "greenRoutes": {
         "title": "Green Routes Lviv",
         "excerpt": "Open-source'owa aplikacja sugerująca niskoemisyjne dojazdy.",
-        "description": "Współpracowałem z organizacją ekologiczną, aby mieszkańcy mogli porównywać trasy piesze, rowerowe i komunikacją miejską. Prowadziłem migrację frontendu do Next.js, wdrożyłem ocenę wpływu energetycznego i przygotowałem dokumentację ułatwiającą dołączenie nowych wolontariuszy.",
-        "imageAlt": "Zrzut ekranu Green Routes porównującego ekologiczne opcje dojazdu we Lwowie."
+        "description": "Współpracowałem z organizacją ekologiczną, aby mieszkańcy mogli porównywać trasy piesze, rowerowe i komunikacją miejską. Prowadziłem migrację frontendu do Next.js, wdrożyłem ocenę wpływu energetycznego i przygotowałem dokumentację ułatwiającą dołączenie nowych wolontariuszy."
       }
     }
   },

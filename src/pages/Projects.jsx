@@ -20,7 +20,6 @@ const Projects = () => {
         title: t(project.titleKey),
         excerpt: t(project.excerptKey),
         description: t(project.descriptionKey),
-        imageAlt: t(project.imageAltKey),
         links: project.links?.map((link) => ({ ...link, label: t(link.labelKey) })),
       })),
     [t]

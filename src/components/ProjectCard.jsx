@@ -11,11 +11,8 @@ const ProjectCard = ({ project, onSelect }) => (
     <div className="relative overflow-hidden">
       <img
         src={project.image}
-        srcSet={project.imageSrcSet}
-        sizes={project.imageSizes}
-        alt={project.imageAlt}
+        alt={project.title}
         loading="lazy"
-        decoding="async"
         className="h-48 w-full object-cover transition duration-500 group-hover:scale-105"
       />
       <div className="pointer-events-none absolute inset-0 bg-gradient-to-br from-transparent via-transparent to-accent-500/20 opacity-0 transition group-hover:opacity-100" />
