@@ -37,10 +37,10 @@ const Header = () => {
             className="group flex items-center gap-3 rounded-full border border-transparent px-2 pr-3 py-1 transition hover:border-slate-200/80 hover:bg-white/70 dark:hover:border-slate-700/70 dark:hover:bg-slate-900/60"
           >
             <span className="flex h-10 w-10 items-center justify-center rounded-full bg-slate-900 text-sm font-semibold uppercase tracking-widest text-white shadow-lg dark:bg-slate-100 dark:text-slate-900">
-              RK
+              DZ
             </span>
             <span className="hidden text-sm font-medium text-slate-500 transition group-hover:text-slate-900 dark:text-slate-400 dark:group-hover:text-slate-100 sm:block">
-              Roman Kovalenko
+              Denys Zagorovskyi
             </span>
           </Link>
         </div>

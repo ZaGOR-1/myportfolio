@@ -1,6 +1,6 @@
-# Roman Kovalenko — Portfolio
+# Denys Zagorovskyi — Portfolio
 
-A modern, minimalist portfolio for a second-year Software Engineering student at Zhytomyr Polytechnic State University. Built with React, Vite, TailwindCSS, Framer Motion, and react-i18next to deliver a bilingual (UA/EN/PL) experience with smooth animations and a persistent light/dark theme.
+A modern, data-driven portfolio for a third-year Computer Science student at Lviv Polytechnic National University. Built with React, Vite, TailwindCSS, Framer Motion, and react-i18next to deliver a trilingual (UA/EN/PL) experience with smooth animations and a persistent light/dark theme.
 
 ## ✨ Key Features
 
