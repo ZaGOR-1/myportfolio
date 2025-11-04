@@ -47,6 +47,23 @@ const About = () => {
               <p className="text-sm text-slate-600 dark:text-slate-300">{t('about.uni.program')}</p>
               <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">{t('about.uni.period')}</p>
             </div>
+            <div className="rounded-3xl border border-slate-200/60 bg-slate-50/90 p-6 dark:border-slate-700/60 dark:bg-slate-800/70">
+              <h4 className="text-sm font-semibold uppercase tracking-[0.3em] text-slate-500 dark:text-slate-400">
+                {t('about.work.heading')}
+              </h4>
+              <div className="mt-4 space-y-4">
+                <div>
+                  <p className="text-base font-semibold text-slate-900 dark:text-white">{t('about.work.current.position')}</p>
+                  <p className="text-sm text-slate-600 dark:text-slate-300">{t('about.work.current.company')}</p>
+                  <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">{t('about.work.current.period')}</p>
+                </div>
+                <div className="border-t border-slate-200 pt-4 dark:border-slate-700">
+                  <p className="text-base font-semibold text-slate-900 dark:text-white">{t('about.work.previous.position')}</p>
+                  <p className="text-sm text-slate-600 dark:text-slate-300">{t('about.work.previous.company')}</p>
+                  <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">{t('about.work.previous.period')}</p>
+                </div>
+              </div>
+            </div>
           </motion.div>
 
           <motion.div

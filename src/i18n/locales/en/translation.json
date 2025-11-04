@@ -19,7 +19,7 @@
       "line2": "Software Engineering Student"
     },
     "description": "I build data-powered web platforms that combine reliable backend architecture with expressive interfaces. Currently working as a fullstack developer, helping cities and communities make better, greener decisions through technology.",
-    "university": "Zhytomyr Polytechnic · BSc Software Engineering",
+    "university": "Zhytomyr Polytechnika · BSc Software Engineering",
     "ctaPrimary": "Explore projects",
     "ctaSecondary": "Let's talk",
     "highlights": [
@@ -91,7 +91,7 @@
   "about": {
     "eyebrow": "About me",
     "title": "Solving community challenges through thoughtful code",
-    "description": "I am a second-year Software Engineering student at Zhytomyr Polytechnic, working as a fullstack developer and exploring how data and design can accelerate sustainable urban development.",
+    "description": "I am a second-year Software Engineering student at Zhytomyr Polytechnika, working as a fullstack developer and exploring how data and design can accelerate sustainable urban development.",
     "story": {
       "heading": "From robotics club to fullstack development",
       "paragraph1": "I entered tech by soldering sensors for a school robotics club. That tinkering spirit pushed me toward programming tools that connect real-world data with people who rely on it daily.",
@@ -99,9 +99,22 @@
     },
     "uni": {
       "heading": "Education",
-      "name": "Zhytomyr Polytechnic",
+      "name": "Zhytomyr Polytechnika",
       "program": "BSc Software Engineering — 2nd year",
-      "period": "2023 — present"
+      "period": "2024 — present"
+    },
+    "work": {
+      "heading": "Work Experience",
+      "current": {
+        "position": "Fullstack Developer",
+        "company": "Ukrainian IT Company",
+        "period": "present"
+      },
+      "previous": {
+        "position": "Fullstack Developer",
+        "company": "Freelance",
+        "period": "previously"
+      }
     },
     "skills": {
       "title": "Skills & tools",
@@ -178,7 +191,7 @@
   },
   "seo": {
     "homeTitle": "Denys Zagorovskyi — Fullstack Developer Portfolio",
-    "homeDescription": "Denys Zagorovskyi is a second-year Software Engineering student at Zhytomyr Polytechnic and a fullstack developer building data-driven products for sustainable cities and campuses.",
+    "homeDescription": "Denys Zagorovskyi is a second-year Software Engineering student at Zhytomyr Polytechnika and a fullstack developer building data-driven products for sustainable cities and campuses.",
     "projectsTitle": "Projects — Denys Zagorovskyi",
     "projectsDescription": "Explore civic-tech dashboards, campus scheduling tools, and environmental apps crafted with React, Next.js, and TypeScript.",
     "aboutTitle": "About — Denys Zagorovskyi",
