@@ -41,11 +41,29 @@ npm run preview
 
 ## 🌐 Deploying to GitHub Pages
 
+### Automatic Deployment (Recommended)
+
+This project includes a GitHub Actions workflow that automatically builds and deploys to GitHub Pages on every push to the `main` branch.
+
+**Setup Steps:**
+1. Go to your repository settings on GitHub
+2. Navigate to **Settings** → **Pages**
+3. Under **Build and deployment**, set:
+   - **Source**: GitHub Actions
+4. Push your changes to the `main` branch
+5. The workflow will automatically build and deploy your site
+
+### Manual Deployment
+
+Alternatively, you can deploy manually using:
+
 ```bash
 npm run deploy
 ```
 
-This command builds the project and publishes the `dist` directory to the `gh-pages` branch via the `gh-pages` CLI. Client-side routing now uses a hash-based router so deep links continue to work once the site is hosted on GitHub Pages.
+This command builds the project and publishes the `dist` directory to the `gh-pages` branch via the `gh-pages` CLI. 
+
+**Note:** Client-side routing uses a hash-based router so deep links continue to work once the site is hosted on GitHub Pages.
 
 ## 🧱 Project Structure
 
