@@ -1,0 +1,186 @@
+{
+  "nav": {
+    "home": "Start",
+    "projects": "Projekty",
+    "about": "O mnie",
+    "contact": "Kontakt",
+    "openMenu": "Otwórz nawigację",
+    "closeMenu": "Zamknij nawigację",
+    "switchLanguage": "Zmień język na {{language}}",
+    "switchToLight": "Włącz jasny motyw",
+    "switchToDark": "Włącz ciemny motyw",
+    "light": "Jasny",
+    "dark": "Ciemny"
+  },
+  "home": {
+    "eyebrow": "Student drugiego roku",
+    "heroTitle": {
+      "line1": "Roman Kovalenko —",
+      "line2": "student Inżynierii Oprogramowania"
+    },
+    "description": "Tworzę dopracowane produkty cyfrowe, łącząc solidne podstawy inżynierskie z empatią, dostępnością i nowoczesnym designem.",
+    "university": "Państwowy Uniwersytet „Żytomierska Politechnika” · Inżynieria Oprogramowania",
+    "ctaPrimary": "Zobacz projekty",
+    "ctaSecondary": "Napisz do mnie",
+    "highlights": [
+      {
+        "title": "Główny kierunek",
+        "value": "Frontend & UX",
+        "caption": "Projektuję intuicyjne interfejsy React z animacjami i wielojęzycznością."
+      },
+      {
+        "title": "Inicjatywy kampusowe",
+        "value": "6+",
+        "caption": "Współpracuję przy międzywydziałowych projektach na Żytomierskiej Politechnice."
+      },
+      {
+        "title": "Finały hackathonów",
+        "value": "3",
+        "caption": "Szybko prototypuję rozwiązania i prezentuję je przed mentorami z branży."
+      }
+    ],
+    "focus": [
+      {
+        "title": "Myślenie produktowe",
+        "description": "Przekładam wymagania na historie użytkownika i konkretne rezultaty."
+      },
+      {
+        "title": "Systemy projektowe",
+        "description": "Biblioteki komponentów z TailwindCSS i Framer Motion dla spójnych interfejsów."
+      },
+      {
+        "title": "Współpraca",
+        "description": "Lubię budować produkty zespołowo, z przejrzystą komunikacją i dobrymi praktykami Git."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Wybrane realizacje",
+    "title": "Projekty łączące technologię i wpływ",
+    "description": "Przegląd prototypów, koncepcji hackathonowych i narzędzi społecznościowych, które ukształtowały moją drogę na Żytomierskiej Politechnice.",
+    "types": {
+      "academic": "Współpraca akademicka",
+      "research": "Inicjatywa badawcza",
+      "community": "Projekt społecznościowy"
+    },
+    "actions": {
+      "prototype": "Zobacz prototyp",
+      "repository": "Zobacz repozytorium",
+      "live": "Otwórz demo"
+    },
+    "techStack": "Stack",
+    "closeDetails": "Zamknij szczegóły projektu",
+    "items": {
+      "smartCampus": {
+        "title": "Smart Campus Platform",
+        "excerpt": "Cyfrowa infrastruktura modernizująca usługi studenckie i operacje kampusu.",
+        "description": "Modułowa platforma do rezerwacji sal, wydarzeń, zgłoszeń serwisowych i interaktywnych map. Odpowiadałem za frontend w React, projektowałem wzorce UI i współpracowałem z zespołem międzywydziałowym, aby dopasować rozwiązania do potrzeb studentów."
+      },
+      "wellbeing": {
+        "title": "Panel dobrostanu",
+        "excerpt": "Zestaw wizualizacji monitorujących trendy dobrostanu studentów.",
+        "description": "Pomaga doradcom reagować na sygnały w czasie rzeczywistym. Zintegrowałem Firebase, zaprojektowałem empatyczne stany UI i zadbałem o anonimizację danych zgodnie z regulacjami uczelni."
+      },
+      "techEvents": {
+        "title": "Tech Community Events",
+        "excerpt": "Open-source'owy hub do organizacji wydarzeń technologicznych na uczelni.",
+        "description": "Narzędzie do promowania spotkań, zbierania opinii i ponownego wykorzystania materiałów. Zawiera wielojęzyczne strony, panel analityczny i wprowadzanie z efektami ruchu."
+      }
+    }
+  },
+  "about": {
+    "eyebrow": "O mnie",
+    "title": "Projektuję inkluzywne doświadczenia cyfrowe",
+    "description": "Jestem studentem drugiego roku Inżynierii Oprogramowania na Żytomierskiej Politechnice. Fascynuje mnie, jak technologia wspiera edukację i społeczności.",
+    "story": {
+      "heading": "Od ciekawości do rzemiosła",
+      "paragraph1": "Moja droga zaczęła się od pytania, jak powstają interfejsy. Dziś chcę tworzyć produkty lekkie, dopracowane i dostępne.",
+      "paragraph2": "Skupiam się na ekosystemie React, czystej architekturze i animacjach. Prowadzę warsztaty zespołowe, dokumentuję wzorce i mentoruję młodszych studentów."
+    },
+    "uni": {
+      "heading": "Edukacja",
+      "name": "Państwowy Uniwersytet „Żytomierska Politechnika”",
+      "program": "Licencjat z Inżynierii Oprogramowania — 2. rok",
+      "period": "2023 — obecnie"
+    },
+    "skills": {
+      "title": "Umiejętności i narzędzia",
+      "description": "Technologie, dzięki którym zamieniam pomysły w działające produkty.",
+      "items": [
+        "React",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "TailwindCSS",
+        "Framer Motion",
+        "Node.js",
+        "Express",
+        "Git",
+        "REST API",
+        "Figma",
+        "Scrum"
+      ]
+    },
+    "valuesTitle": "Wartości, które wnoszę",
+    "values": [
+      {
+        "title": "Człowiek w centrum",
+        "description": "Każdą decyzję zaczynam od empatii wobec studentów, wykładowców i społeczności."
+      },
+      {
+        "title": "Ciągła nauka",
+        "description": "Szybko iteruję, weryfikuję hipotezy i dzielę się wiedzą z zespołem."
+      },
+      {
+        "title": "Dbałość o detale",
+        "description": "Tokeny projektowe, dostępność i animacje sprawiają, że produkt jest dopracowany."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Skontaktuj się",
+    "title": "Stwórzmy coś wartościowego",
+    "description": "Szukasz stażysty, organizujesz wydarzenie lub zespół hackathonowy? Napisz do mnie. Jestem otwarty na staże i projekty freelance.",
+    "form": {
+      "nameLabel": "Imię i nazwisko",
+      "namePlaceholder": "Wpisz swoje imię",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@example.com",
+      "messageLabel": "Wiadomość",
+      "messagePlaceholder": "Opowiedz o pomyśle, projekcie lub współpracy...",
+      "submit": "Wyślij",
+      "sent": "Wysłano",
+      "success": "Dziękuję! Odpowiem w ciągu dwóch dni.",
+      "error": "Nie udało się wysłać wiadomości. Spróbuj ponownie."
+    },
+    "sidebar": {
+      "title": "Wolisz social media?",
+      "description": "Jestem aktywny w społecznościach studenckich i szybko odpowiadam na LinkedIn oraz Telegramie.",
+      "note": "Możemy pisać po ukraińsku, angielsku lub polsku — lubię zmieniać konteksty."
+    },
+    "links": {
+      "linkedin": "@roman-kovalenko",
+      "github": "@romankovalenko",
+      "telegram": "@kovalenko_roman"
+    }
+  },
+  "footer": {
+    "tagline": "Projektuję spokojne, wielojęzyczne doświadczenia, które łatwo skalować.",
+    "rights": "Wszelkie prawa zastrzeżone."
+  },
+  "social": {
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "telegram": "Telegram"
+  },
+  "seo": {
+    "homeTitle": "Roman Kovalenko — portfolio studenta inżynierii oprogramowania",
+    "homeDescription": "Roman Kovalenko, student drugiego roku Żytomierskiej Politechniki, tworzy nowoczesne produkty React z animacjami i wielojęzycznością.",
+    "projectsTitle": "Projekty — Roman Kovalenko",
+    "projectsDescription": "Zobacz współprace akademickie, prototypy badawcze i projekty społeczne stworzone w React i TailwindCSS.",
+    "aboutTitle": "O mnie — Roman Kovalenko",
+    "aboutDescription": "Poznaj historię, wartości i umiejętności Romana Kovalenki, studenta Żytomierskiej Politechniki.",
+    "contactTitle": "Kontakt — Roman Kovalenko",
+    "contactDescription": "Skontaktuj się z Romanem Kovalenką w sprawie staży, współpracy lub wspólnych projektów."
+  }
+}
