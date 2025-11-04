@@ -13,13 +13,13 @@
     "dark": "Ciemny"
   },
   "home": {
-    "eyebrow": "Student trzeciego roku",
+    "eyebrow": "Student drugiego roku · Fullstack Developer",
     "heroTitle": {
       "line1": "Denys Zagorovskyi —",
       "line2": "student Informatyki"
     },
-    "description": "Buduję platformy webowe oparte na danych, łącząc niezawodną architekturę backendu z ekspresyjnymi interfejsami. Chcę, aby miasta i społeczności akademickie podejmowały lepsze, bardziej zielone decyzje dzięki technologii.",
-    "university": "Politechnika Lwowska · Licencjat z Informatyki",
+    "description": "Buduję platformy webowe oparte na danych, łącząc niezawodną architekturę backendu z ekspresyjnymi interfejsami. Obecnie pracuję jako fullstack developer, pomagając miastom i społecznościom podejmować lepsze, bardziej zielone decyzje dzięki technologii.",
+    "university": "Politechnika Żytomierska · Licencjat z Informatyki",
     "ctaPrimary": "Poznaj projekty",
     "ctaSecondary": "Porozmawiajmy",
     "highlights": [
@@ -91,17 +91,17 @@
   "about": {
     "eyebrow": "O mnie",
     "title": "Rozwiązuję wyzwania społeczne przemyślanym kodem",
-    "description": "Jestem studentem trzeciego roku Informatyki na Politechnice Lwowskiej. Badam, jak dane i design mogą przyspieszyć zrównoważony rozwój miast.",
+    "description": "Jestem studentem drugiego roku Informatyki na Politechnice Żytomierskiej, pracuję jako fullstack developer i badam, jak dane i design mogą przyspieszyć zrównoważony rozwój miast.",
     "story": {
-      "heading": "Od klubu robotyki do civic tech",
+      "heading": "Od klubu robotyki do fullstack development",
       "paragraph1": "Zacząłem od lutowania czujników w szkolnym klubie robotyki. Ta ciekawość zaprowadziła mnie do programowania narzędzi, które łączą dane z ludźmi korzystającymi z nich na co dzień.",
-      "paragraph2": "Dziś specjalizuję się w full-stack TypeScript, wizualizacjach geograficznych i systemach dostępnego UI. Poza zajęciami mentoruję pierwszorocznych studentów, współprowadzę uczelniane koło programistów i dokumentuję procesy, aby każdy członek zespołu mógł działać pewnie."
+      "paragraph2": "Dziś pracuję jako fullstack developer, specjalizuję się w TypeScript, React, Node.js, wizualizacjach geograficznych i systemach dostępnego UI. Poza pracą i zajęciami mentoruję studentów, współprowadzę uczelniane koło programistów i dokumentuję procesy, aby każdy członek zespołu mógł działać pewnie."
     },
     "uni": {
       "heading": "Edukacja",
-      "name": "Politechnika Lwowska",
-      "program": "Licencjat z Informatyki — 3. rok",
-      "period": "2022 — obecnie"
+      "name": "Politechnika Żytomierska",
+      "program": "Licencjat z Informatyki — 2. rok",
+      "period": "2023 — obecnie"
     },
     "skills": {
       "title": "Umiejętności i narzędzia",
@@ -174,12 +174,12 @@
     "telegram": "Telegram"
   },
   "seo": {
-    "homeTitle": "Denys Zagorovskyi — portfolio studenta informatyki",
-    "homeDescription": "Denys Zagorovskyi, student trzeciego roku Politechniki Lwowskiej, tworzy produkty oparte na danych dla zrównoważonych miast i kampusów.",
+    "homeTitle": "Denys Zagorovskyi — portfolio fullstack developer",
+    "homeDescription": "Denys Zagorovskyi, student drugiego roku Politechniki Żytomierskiej i fullstack developer, tworzy produkty oparte na danych dla zrównoważonych miast i kampusów.",
     "projectsTitle": "Projekty — Denys Zagorovskyi",
     "projectsDescription": "Poznaj civic-tech dashboardy, narzędzia planowania zajęć i aplikacje ekologiczne zbudowane w React, Next.js i TypeScript.",
     "aboutTitle": "O mnie — Denys Zagorovskyi",
-    "aboutDescription": "Poznaj historię Denysa Zagorovskiego, jego drogę do civic tech, ulubione narzędzia i wartości zawodowe.",
+    "aboutDescription": "Poznaj historię Denysa Zagorovskiego, jego drogę do fullstack development i civic tech, ulubione narzędzia i wartości zawodowe.",
     "contactTitle": "Kontakt — Denys Zagorovskyi",
     "contactDescription": "Skontaktuj się z Denysem Zagorovskym w sprawie staży, współpracy badawczej lub inicjatyw społecznych."
   }

@@ -13,13 +13,13 @@
     "dark": "Dark"
   },
   "home": {
-    "eyebrow": "Third-year student",
+    "eyebrow": "Second-year student · Fullstack Developer",
     "heroTitle": {
       "line1": "Denys Zagorovskyi —",
       "line2": "Computer Science Student"
     },
-    "description": "I build data-powered web platforms that combine reliable backend architecture with expressive interfaces. My goal is to help cities and campus communities make better, greener decisions through technology.",
-    "university": "Lviv Polytechnic National University · BSc Computer Science",
+    "description": "I build data-powered web platforms that combine reliable backend architecture with expressive interfaces. Currently working as a fullstack developer, helping cities and communities make better, greener decisions through technology.",
+    "university": "Zhytomyr Polytechnic · BSc Computer Science",
     "ctaPrimary": "Explore projects",
     "ctaSecondary": "Let's talk",
     "highlights": [
@@ -91,17 +91,17 @@
   "about": {
     "eyebrow": "About me",
     "title": "Solving community challenges through thoughtful code",
-    "description": "I am a third-year Computer Science student at Lviv Polytechnic National University, exploring how data and design can accelerate sustainable urban development.",
+    "description": "I am a second-year Computer Science student at Zhytomyr Polytechnic, working as a fullstack developer and exploring how data and design can accelerate sustainable urban development.",
     "story": {
-      "heading": "From robotics club to civic tech",
+      "heading": "From robotics club to fullstack development",
       "paragraph1": "I entered tech by soldering sensors for a school robotics club. That tinkering spirit pushed me toward programming tools that connect real-world data with people who rely on it daily.",
-      "paragraph2": "Now I specialise in full-stack TypeScript, geographic visualisations, and accessible UI systems. Beyond classes, I mentor first-year students, co-lead a campus coding guild, and document processes so every teammate can contribute with confidence."
+      "paragraph2": "Now I work as a fullstack developer, specialising in TypeScript, React, Node.js, geographic visualisations, and accessible UI systems. Beyond work and classes, I mentor students, co-lead a campus coding guild, and document processes so every teammate can contribute with confidence."
     },
     "uni": {
       "heading": "Education",
-      "name": "Lviv Polytechnic National University",
-      "program": "BSc Computer Science — 3rd year",
-      "period": "2022 — present"
+      "name": "Zhytomyr Polytechnic",
+      "program": "BSc Computer Science — 2nd year",
+      "period": "2023 — present"
     },
     "skills": {
       "title": "Skills & tools",
@@ -174,12 +174,12 @@
     "telegram": "Telegram"
   },
   "seo": {
-    "homeTitle": "Denys Zagorovskyi — Computer Science Student Portfolio",
-    "homeDescription": "Denys Zagorovskyi is a third-year Computer Science student at Lviv Polytechnic building data-driven products for sustainable cities and campuses.",
+    "homeTitle": "Denys Zagorovskyi — Fullstack Developer Portfolio",
+    "homeDescription": "Denys Zagorovskyi is a second-year Computer Science student at Zhytomyr Polytechnic and a fullstack developer building data-driven products for sustainable cities and campuses.",
     "projectsTitle": "Projects — Denys Zagorovskyi",
     "projectsDescription": "Explore civic-tech dashboards, campus scheduling tools, and environmental apps crafted with React, Next.js, and TypeScript.",
     "aboutTitle": "About — Denys Zagorovskyi",
-    "aboutDescription": "Learn about Denys Zagorovskyi, his journey into civic tech, favourite tools, and the principles guiding his work.",
+    "aboutDescription": "Learn about Denys Zagorovskyi, his journey into fullstack development and civic tech, favourite tools, and the principles guiding his work.",
     "contactTitle": "Contact — Denys Zagorovskyi",
     "contactDescription": "Reach out to Denys Zagorovskyi for internships, collaborations, research partnerships, or community initiatives."
   }
