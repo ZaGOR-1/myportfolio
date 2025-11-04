@@ -16,10 +16,10 @@
     "eyebrow": "Student drugiego roku · Fullstack Developer",
     "heroTitle": {
       "line1": "Denys Zagorovskyi —",
-      "line2": "student Informatyki"
+      "line2": "student Inżynierii Oprogramowania"
     },
     "description": "Buduję platformy webowe oparte na danych, łącząc niezawodną architekturę backendu z ekspresyjnymi interfejsami. Obecnie pracuję jako fullstack developer, pomagając miastom i społecznościom podejmować lepsze, bardziej zielone decyzje dzięki technologii.",
-    "university": "Politechnika Żytomierska · Licencjat z Informatyki",
+    "university": "Politechnika Żytomierska · Licencjat z Inżynierii Oprogramowania",
     "ctaPrimary": "Poznaj projekty",
     "ctaSecondary": "Porozmawiajmy",
     "highlights": [
@@ -91,7 +91,7 @@
   "about": {
     "eyebrow": "O mnie",
     "title": "Rozwiązuję wyzwania społeczne przemyślanym kodem",
-    "description": "Jestem studentem drugiego roku Informatyki na Politechnice Żytomierskiej, pracuję jako fullstack developer i badam, jak dane i design mogą przyspieszyć zrównoważony rozwój miast.",
+    "description": "Jestem studentem drugiego roku Inżynierii Oprogramowania na Politechnice Żytomierskiej, pracuję jako fullstack developer i badam, jak dane i design mogą przyspieszyć zrównoważony rozwój miast.",
     "story": {
       "heading": "Od klubu robotyki do fullstack development",
       "paragraph1": "Zacząłem od lutowania czujników w szkolnym klubie robotyki. Ta ciekawość zaprowadziła mnie do programowania narzędzi, które łączą dane z ludźmi korzystającymi z nich na co dzień.",
@@ -100,7 +100,7 @@
     "uni": {
       "heading": "Edukacja",
       "name": "Politechnika Żytomierska",
-      "program": "Licencjat z Informatyki — 2. rok",
+      "program": "Licencjat z Inżynierii Oprogramowania — 2. rok",
       "period": "2023 — obecnie"
     },
     "skills": {
@@ -175,7 +175,7 @@
   },
   "seo": {
     "homeTitle": "Denys Zagorovskyi — portfolio fullstack developer",
-    "homeDescription": "Denys Zagorovskyi, student drugiego roku Politechniki Żytomierskiej i fullstack developer, tworzy produkty oparte na danych dla zrównoważonych miast i kampusów.",
+    "homeDescription": "Denys Zagorovskyi, student drugiego roku Inżynierii Oprogramowania na Politechnice Żytomierskiej i fullstack developer, tworzy produkty oparte na danych dla zrównoważonych miast i kampusów.",
     "projectsTitle": "Projekty — Denys Zagorovskyi",
     "projectsDescription": "Poznaj civic-tech dashboardy, narzędzia planowania zajęć i aplikacje ekologiczne zbudowane w React, Next.js i TypeScript.",
     "aboutTitle": "O mnie — Denys Zagorovskyi",
