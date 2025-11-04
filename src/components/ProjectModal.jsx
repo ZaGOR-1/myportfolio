@@ -56,7 +56,7 @@ const ProjectModal = ({ project, onClose }) => {
             <button
               type="button"
               onClick={onClose}
-              className="absolute right-5 top-5 rounded-full border border-transparent bg-white/80 p-2 text-slate-500 transition hover:border-slate-200 hover:text-slate-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-500 dark:bg-slate-800/80 dark:text-slate-300 dark:hover:text-white"
+              className="absolute right-5 top-5 rounded-full border border-transparent bg-white/80 p-2 text-slate-500 transition hover:border-slate-200 hover:text-slate-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent-500 dark:bg-slate-800/80 dark:text-slate-300 dark:hover:text-white"
               aria-label={t('projects.closeDetails')}
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -67,8 +67,11 @@ const ProjectModal = ({ project, onClose }) => {
               <div className="relative h-full">
                 <img
                   src={project.image}
-                  alt={project.title}
+                  srcSet={project.imageSrcSet}
+                  sizes={project.imageSizes}
+                  alt={project.imageAlt}
                   loading="lazy"
+                  decoding="async"
                   className="h-full w-full object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-tr from-slate-900/10 via-transparent to-accent-500/10" aria-hidden="true" />
@@ -105,7 +108,7 @@ const ProjectModal = ({ project, onClose }) => {
                       href={link.href}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="inline-flex items-center gap-2 rounded-full border border-slate-200/60 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-accent-500 hover:text-accent-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-500 dark:border-slate-700/60 dark:bg-slate-900/80 dark:text-slate-200 dark:hover:border-accent-500 dark:hover:text-accent-400"
+                      className="inline-flex items-center gap-2 rounded-full border border-slate-200/60 bg-white px-4 py-2 text-sm font-semibold text-slate-700 transition hover:border-accent-500 hover:text-accent-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent-500 dark:border-slate-700/60 dark:bg-slate-900/80 dark:text-slate-200 dark:hover:border-accent-500 dark:hover:text-accent-400"
                     >
                       {link.label}
                       <span aria-hidden="true">↗</span>

@@ -37,7 +37,7 @@ const LanguageSwitcher = ({ variant = 'default' }) => {
             onClick={() => changeLanguage(lang.code)}
             aria-pressed={active}
             aria-label={label}
-            className={`flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold uppercase tracking-wide transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-500 ${
+            className={`flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold uppercase tracking-wide transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-accent-500 ${
               active
                 ? 'bg-slate-900 text-white shadow-sm dark:bg-slate-100 dark:text-slate-900'
                 : 'text-slate-500 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-100'
