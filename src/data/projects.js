@@ -12,8 +12,8 @@ const projects = [
     excerptKey: 'projects.items.cityPulse.excerpt',
     descriptionKey: 'projects.items.cityPulse.description',
     links: [
-      { href: 'https://citypulse.denyszagorovskyi.dev', labelKey: 'projects.actions.live' },
-      { href: 'https://github.com/d-zagorovskyi/city-pulse', labelKey: 'projects.actions.repository' },
+      { href: 'https://citypulse.denyszahorovskyi.dev', labelKey: 'projects.actions.live' },
+      { href: 'https://github.com/d-zahorovskyi/city-pulse', labelKey: 'projects.actions.repository' },
     ],
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     titleKey: 'projects.items.campusPlanner.title',
     excerptKey: 'projects.items.campusPlanner.excerpt',
     descriptionKey: 'projects.items.campusPlanner.description',
-    links: [{ href: 'https://github.com/d-zagorovskyi/campus-planner-360', labelKey: 'projects.actions.repository' }],
+    links: [{ href: 'https://github.com/d-zahorovskyi/campus-planner-360', labelKey: 'projects.actions.repository' }],
   },
   {
     id: 'green-routes',
@@ -36,7 +36,7 @@ const projects = [
     descriptionKey: 'projects.items.greenRoutes.description',
     links: [
       { href: 'https://greenroutes-lviv.org', labelKey: 'projects.actions.live' },
-      { href: 'https://github.com/d-zagorovskyi/green-routes', labelKey: 'projects.actions.repository' },
+      { href: 'https://github.com/d-zahorovskyi/green-routes', labelKey: 'projects.actions.repository' },
     ],
   },
 ];

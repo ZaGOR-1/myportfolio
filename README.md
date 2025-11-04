@@ -1,4 +1,4 @@
-# Denys Zagorovskyi — Portfolio
+# Denys Zahorovskyi — Portfolio
 
 A modern, data-driven portfolio for a third-year Computer Science student at Lviv Polytechnic National University. Built with React, Vite, TailwindCSS, Framer Motion, and react-i18next to deliver a trilingual (UA/EN/PL) experience with smooth animations and a persistent light/dark theme.
 
