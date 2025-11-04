@@ -95,7 +95,7 @@
     "story": {
       "heading": "Od klubu robotyki do fullstack development",
       "paragraph1": "Zacząłem od lutowania czujników w szkolnym klubie robotyki. Ta ciekawość zaprowadziła mnie do programowania narzędzi, które łączą dane z ludźmi korzystającymi z nich na co dzień.",
-      "paragraph2": "Dziś pracuję jako fullstack developer, specjalizuję się w TypeScript, React, Node.js, wizualizacjach geograficznych i systemach dostępnego UI. Poza pracą i zajęciami mentoruję studentów, współprowadzę uczelniane koło programistów i dokumentuję procesy, aby każdy członek zespołu mógł działać pewnie."
+      "paragraph2": "Dziś pracuję jako fullstack developer, specjalizuję się w TypeScript, React, Node.js, C, C#, wizualizacjach geograficznych i systemach dostępnego UI. Oprócz frontend development piszę również aplikacje backendowe i systemowe w C oraz C#. Poza pracą i zajęciami mentoruję studentów, współprowadzę uczelniane koło programistów i dokumentuję procesy, aby każdy członek zespołu mógł działać pewnie."
     },
     "uni": {
       "heading": "Edukacja",
@@ -111,6 +111,8 @@
         "React",
         "Next.js",
         "Node.js",
+        "C",
+        "C#",
         "Express",
         "PostgreSQL",
         "Prisma",

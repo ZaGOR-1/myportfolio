@@ -95,7 +95,7 @@
     "story": {
       "heading": "From robotics club to fullstack development",
       "paragraph1": "I entered tech by soldering sensors for a school robotics club. That tinkering spirit pushed me toward programming tools that connect real-world data with people who rely on it daily.",
-      "paragraph2": "Now I work as a fullstack developer, specialising in TypeScript, React, Node.js, geographic visualisations, and accessible UI systems. Beyond work and classes, I mentor students, co-lead a campus coding guild, and document processes so every teammate can contribute with confidence."
+      "paragraph2": "Now I work as a fullstack developer, specialising in TypeScript, React, Node.js, C, C#, geographic visualisations, and accessible UI systems. Beyond frontend development, I also write backend and system applications in C and C#. Outside of work and classes, I mentor students, co-lead a campus coding guild, and document processes so every teammate can contribute with confidence."
     },
     "uni": {
       "heading": "Education",
@@ -111,6 +111,8 @@
         "React",
         "Next.js",
         "Node.js",
+        "C",
+        "C#",
         "Express",
         "PostgreSQL",
         "Prisma",
