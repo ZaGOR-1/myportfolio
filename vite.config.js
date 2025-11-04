@@ -39,4 +39,12 @@ export default defineConfig({
       },
     }),
   ],
+  build: {
+    target: 'esnext', // ✅ Додай це
+  },
+  optimizeDeps: {
+    esbuildOptions: {
+      target: 'esnext', // ✅ і це для dev-режиму
+    },
+  },
 });
