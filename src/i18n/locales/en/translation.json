@@ -74,17 +74,20 @@
       "cityPulse": {
         "title": "City Pulse Mobility Dashboard",
         "excerpt": "A real-time transit monitor blending IoT data with municipal schedules.",
-        "description": "Combines bus GPS feeds and pedestrian counters to help the Lviv city council evaluate service demand during peak hours. I architected the map visualisations in React, processed live data streams with WebSockets, and coordinated with UX researchers to ensure the dashboard works on public kiosks."
+        "description": "Combines bus GPS feeds and pedestrian counters to help the Lviv city council evaluate service demand during peak hours. I architected the map visualisations in React, processed live data streams with WebSockets, and coordinated with UX researchers to ensure the dashboard works on public kiosks.",
+        "imageAlt": "Screenshot of the City Pulse mobility dashboard with a live map of Lviv."
       },
       "campusPlanner": {
         "title": "Campus Planner 360",
         "excerpt": "Scheduling assistant connecting students, labs, and equipment availability.",
-        "description": "Built for a software engineering studio course to reduce conflicts between lab sessions and project teams. I introduced role-based access, integrated PostgreSQL with Prisma, and automated notifications through Telegram bots used by 300+ students."
+        "description": "Built for a software engineering studio course to reduce conflicts between lab sessions and project teams. I introduced role-based access, integrated PostgreSQL with Prisma, and automated notifications through Telegram bots used by 300+ students.",
+        "imageAlt": "Screenshot of the Campus Planner 360 scheduling interface highlighting lab booking cards."
       },
       "greenRoutes": {
         "title": "Green Routes Lviv",
         "excerpt": "Open-source web app suggesting low-emission commute options.",
-        "description": "Volunteered with an environmental NGO to help residents compare walking, cycling, and public transport routes. I led the frontend migration to Next.js, implemented energy impact scoring, and wrote documentation so new volunteers can contribute quickly."
+        "description": "Volunteered with an environmental NGO to help residents compare walking, cycling, and public transport routes. I led the frontend migration to Next.js, implemented energy impact scoring, and wrote documentation so new volunteers can contribute quickly.",
+        "imageAlt": "Screenshot of Green Routes comparing eco-friendly commute options across Lviv."
       }
     }
   },
