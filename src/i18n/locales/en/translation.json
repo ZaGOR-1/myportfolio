@@ -13,53 +13,53 @@
     "dark": "Dark"
   },
   "home": {
-    "eyebrow": "Second-year student",
+    "eyebrow": "Third-year student",
     "heroTitle": {
-      "line1": "Roman Kovalenko —",
-      "line2": "Software Engineering Student"
+      "line1": "Denys Zagorovskyi —",
+      "line2": "Computer Science Student"
     },
-    "description": "I craft thoughtful digital products, blending strong engineering foundations with a passion for user experience, accessibility, and sustainable design.",
-    "university": "Zhytomyr Polytechnic State University · BSc Software Engineering",
-    "ctaPrimary": "View projects",
-    "ctaSecondary": "Contact me",
+    "description": "I build data-powered web platforms that combine reliable backend architecture with expressive interfaces. My goal is to help cities and campus communities make better, greener decisions through technology.",
+    "university": "Lviv Polytechnic National University · BSc Computer Science",
+    "ctaPrimary": "Explore projects",
+    "ctaSecondary": "Let's talk",
     "highlights": [
       {
-        "title": "Current focus",
-        "value": "Frontend & UX",
-        "caption": "Delivering intuitive React experiences with delightful motion and translations."
+        "title": "Latest focus",
+        "value": "Full-stack web",
+        "caption": "Delivering end-to-end features with TypeScript, React, and Node.js for student innovation labs."
       },
       {
-        "title": "Campus projects",
-        "value": "6+",
-        "caption": "Collaborating on multidisciplinary initiatives at Zhytomyr Polytechnic to solve real problems."
+        "title": "Community meetups",
+        "value": "12",
+        "caption": "Organising Lviv Students in Tech events and inviting local engineers to mentor peers."
       },
       {
-        "title": "Hackathon finals",
-        "value": "3",
-        "caption": "Rapid prototyping and pitching solutions judged by industry partners."
+        "title": "Open-source commits",
+        "value": "35+",
+        "caption": "Shipping fixes and documentation across civic-tech repositories and university tools."
       }
     ],
     "focus": [
       {
-        "title": "Product thinking",
-        "description": "I translate complex requirements into clear user stories and measurable outcomes."
+        "title": "Urban tech",
+        "description": "Prototype dashboards that turn transport and environmental data into actionable insights."
       },
       {
-        "title": "Design systems",
-        "description": "Reusable component libraries with TailwindCSS and motion design for cohesive interfaces."
+        "title": "Accessible design",
+        "description": "Craft inclusive interfaces for citizens with different devices, languages, and abilities."
       },
       {
-        "title": "Team collaboration",
-        "description": "From Git workflows to code reviews, I enjoy building products together with transparent communication."
+        "title": "Team leadership",
+        "description": "Coordinate project sprints, run design critiques, and keep everyone aligned on outcomes."
       }
     ]
   },
   "projects": {
     "eyebrow": "Selected work",
-    "title": "Projects that blend technology and impact",
-    "description": "A snapshot of prototypes, hackathon concepts, and community-driven tools that shaped my journey at Zhytomyr Polytechnic.",
+    "title": "Projects that empower data-informed decisions",
+    "description": "Highlights from studio classes, civic hackathons, and volunteer initiatives I led to support smarter Ukrainian cities.",
     "types": {
-      "academic": "Academic collaboration",
+      "academic": "Studio collaboration",
       "research": "Research initiative",
       "community": "Community project"
     },
@@ -71,83 +71,83 @@
     "techStack": "Stack",
     "closeDetails": "Close project details",
     "items": {
-      "smartCampus": {
-        "title": "Smart Campus Platform",
-        "excerpt": "Digital infrastructure to modernise student services and campus operations.",
-        "description": "A modular platform for campus services including room booking, events, maintenance requests, and dynamic campus maps. I led the frontend architecture with React, built reusable interface patterns, and collaborated with a cross-faculty team to align technical decisions with student needs."
+      "cityPulse": {
+        "title": "City Pulse Mobility Dashboard",
+        "excerpt": "A real-time transit monitor blending IoT data with municipal schedules.",
+        "description": "Combines bus GPS feeds and pedestrian counters to help the Lviv city council evaluate service demand during peak hours. I architected the map visualisations in React, processed live data streams with WebSockets, and coordinated with UX researchers to ensure the dashboard works on public kiosks."
       },
-      "wellbeing": {
-        "title": "Wellbeing Insights Dashboard",
-        "excerpt": "Data visualisation toolkit for monitoring student wellbeing trends.",
-        "description": "Designed to help counsellors and mentors react quickly to wellbeing signals. I integrated real-time updates with Firebase, crafted compassionate UI states, and ensured data anonymity following university regulations."
+      "campusPlanner": {
+        "title": "Campus Planner 360",
+        "excerpt": "Scheduling assistant connecting students, labs, and equipment availability.",
+        "description": "Built for a software engineering studio course to reduce conflicts between lab sessions and project teams. I introduced role-based access, integrated PostgreSQL with Prisma, and automated notifications through Telegram bots used by 300+ students."
       },
-      "techEvents": {
-        "title": "Tech Community Events",
-        "excerpt": "Open-source hub for organising university tech meetups and workshops.",
-        "description": "An event discovery and management tool that empowers student clubs to promote sessions, gather feedback, and reuse resources. Includes multilingual landing pages, analytics dashboards, and a motion-rich onboarding experience."
+      "greenRoutes": {
+        "title": "Green Routes Lviv",
+        "excerpt": "Open-source web app suggesting low-emission commute options.",
+        "description": "Volunteered with an environmental NGO to help residents compare walking, cycling, and public transport routes. I led the frontend migration to Next.js, implemented energy impact scoring, and wrote documentation so new volunteers can contribute quickly."
       }
     }
   },
   "about": {
     "eyebrow": "About me",
-    "title": "Building inclusive digital experiences with heart",
-    "description": "I am a second-year Software Engineering student at Zhytomyr Polytechnic State University, fascinated by how technology can accelerate education and community impact.",
+    "title": "Solving community challenges through thoughtful code",
+    "description": "I am a third-year Computer Science student at Lviv Polytechnic National University, exploring how data and design can accelerate sustainable urban development.",
     "story": {
-      "heading": "From curiosity to craftsmanship",
-      "paragraph1": "My journey into software engineering began with curiosity about how interfaces are built. This curiosity turned into a drive to craft products that feel effortless and delightful across devices and languages.",
-      "paragraph2": "Today I focus on React ecosystems, clean architecture, and motion design. I enjoy facilitating team workshops, documenting patterns, and mentoring first-year students through code reviews."
+      "heading": "From robotics club to civic tech",
+      "paragraph1": "I entered tech by soldering sensors for a school robotics club. That tinkering spirit pushed me toward programming tools that connect real-world data with people who rely on it daily.",
+      "paragraph2": "Now I specialise in full-stack TypeScript, geographic visualisations, and accessible UI systems. Beyond classes, I mentor first-year students, co-lead a campus coding guild, and document processes so every teammate can contribute with confidence."
     },
     "uni": {
       "heading": "Education",
-      "name": "Zhytomyr Polytechnic State University",
-      "program": "BSc Software Engineering — 2nd year",
-      "period": "2023 — present"
+      "name": "Lviv Polytechnic National University",
+      "program": "BSc Computer Science — 3rd year",
+      "period": "2022 — present"
     },
     "skills": {
       "title": "Skills & tools",
-      "description": "Technologies I use to turn ideas into polished, accessible products.",
+      "description": "Technologies I rely on to deliver stable, human-centred products.",
       "items": [
+        "TypeScript",
         "React",
-        "JavaScript",
-        "HTML5",
-        "CSS3",
-        "TailwindCSS",
-        "Framer Motion",
+        "Next.js",
         "Node.js",
         "Express",
-        "Git",
-        "REST APIs",
-        "Figma",
-        "Scrum"
+        "PostgreSQL",
+        "Prisma",
+        "GraphQL",
+        "TailwindCSS",
+        "Mapbox GL",
+        "Docker",
+        "Figma"
       ]
     },
-    "valuesTitle": "Values I bring to every team",
+    "valuesTitle": "Principles that guide my work",
     "values": [
       {
-        "title": "Human-centred",
-        "description": "Every decision starts with empathy for students, educators, and communities who rely on the product."
+        "title": "Impact first",
+        "description": "Measure success by how clearly residents and students can act on the insights we provide."
       },
       {
-        "title": "Continuous learning",
-        "description": "I iterate fast, validate assumptions with users, and document learnings so the team scales knowledge."
+        "title": "Clarity in code",
+        "description": "Modular architectures, clean documentation, and automated tests keep teams shipping quickly."
       },
       {
-        "title": "Craft & detail",
-        "description": "Design tokens, accessibility checklists, and motion specs ensure experiences feel intentional."
+        "title": "Shared growth",
+        "description": "Create spaces where peers feel safe to ask questions, experiment, and celebrate each win."
       }
     ]
   },
   "contact": {
-    "eyebrow": "Get in touch",
-    "title": "Let's build something meaningful",
-    "description": "Whether you're hiring, organising an event, or co-creating a hackathon team — drop a message. I'm open to internships and freelance collaborations.",
+    "eyebrow": "Say hello",
+    "title": "Let's collaborate on smarter cities",
+    "description": "Have an internship offer, research idea, or community initiative in mind? Reach out — I'm open to summer placements, volunteer projects, and speaking opportunities.",
     "form": {
       "nameLabel": "Full name",
       "namePlaceholder": "Enter your name",
       "emailLabel": "Email",
       "emailPlaceholder": "you@example.com",
       "messageLabel": "Message",
-      "messagePlaceholder": "Tell me about the idea, project, or opportunity...",
+      "messagePlaceholder": "Share the challenge, idea, or partnership you'd like to explore...",
       "submit": "Send message",
       "sent": "Message sent",
       "success": "Thanks! I'll reply within two days.",
@@ -155,17 +155,17 @@
     },
     "sidebar": {
       "title": "Prefer socials?",
-      "description": "I stay active across communities and respond quickly on LinkedIn and Telegram.",
-      "note": "You can also reach me in Ukrainian, English, or Polish — I enjoy switching contexts and cultures."
+      "description": "I share updates about civic-tech meetups and reply quickly on LinkedIn or Telegram.",
+      "note": "We can chat in Ukrainian, English, or Polish — whichever makes collaboration smoother."
     },
     "links": {
-      "linkedin": "@roman-kovalenko",
-      "github": "@romankovalenko",
-      "telegram": "@kovalenko_roman"
+      "linkedin": "@denys-zagorovskyi",
+      "github": "@d-zagorovskyi",
+      "telegram": "@zagorovskyi_denys"
     }
   },
   "footer": {
-    "tagline": "Designing calm, multilingual experiences that scale across platforms.",
+    "tagline": "Building data-driven, inclusive tools for future-ready communities.",
     "rights": "All rights reserved."
   },
   "social": {
@@ -174,13 +174,13 @@
     "telegram": "Telegram"
   },
   "seo": {
-    "homeTitle": "Roman Kovalenko — Software Engineering Student Portfolio",
-    "homeDescription": "Roman Kovalenko is a second-year Software Engineering student at Zhytomyr Polytechnic building modern React products with motion, accessibility, and multilingual interfaces.",
-    "projectsTitle": "Projects — Roman Kovalenko",
-    "projectsDescription": "Explore academic collaborations, research prototypes, and community projects crafted with React, TailwindCSS, and Framer Motion.",
-    "aboutTitle": "About — Roman Kovalenko",
-    "aboutDescription": "Learn about Roman Kovalenko, his story at Zhytomyr Polytechnic, skills, values, and approach to building inclusive products.",
-    "contactTitle": "Contact — Roman Kovalenko",
-    "contactDescription": "Reach out to Roman Kovalenko for internships, collaborations, and product design partnerships."
+    "homeTitle": "Denys Zagorovskyi — Computer Science Student Portfolio",
+    "homeDescription": "Denys Zagorovskyi is a third-year Computer Science student at Lviv Polytechnic building data-driven products for sustainable cities and campuses.",
+    "projectsTitle": "Projects — Denys Zagorovskyi",
+    "projectsDescription": "Explore civic-tech dashboards, campus scheduling tools, and environmental apps crafted with React, Next.js, and TypeScript.",
+    "aboutTitle": "About — Denys Zagorovskyi",
+    "aboutDescription": "Learn about Denys Zagorovskyi, his journey into civic tech, favourite tools, and the principles guiding his work.",
+    "contactTitle": "Contact — Denys Zagorovskyi",
+    "contactDescription": "Reach out to Denys Zagorovskyi for internships, collaborations, research partnerships, or community initiatives."
   }
 }
