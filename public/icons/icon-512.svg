@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Denys Zagorovskyi portfolio icon large</title>
+  <desc id="desc">Large rounded badge with stylised DZ initials on a gradient background</desc>
+  <defs>
+    <linearGradient id="grad512" x1="64" y1="64" x2="448" y2="448" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366F1" />
+      <stop offset="1" stop-color="#0EA5E9" />
+    </linearGradient>
+    <linearGradient id="stroke512" x1="128" y1="128" x2="384" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FAFC" stop-opacity="0.92" />
+      <stop offset="1" stop-color="#E2E8F0" stop-opacity="0.78" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#grad512)" />
+  <path d="M160 152h144c78 0 134 52 134 132 0 79-55.8 132-138 132H224v96H160V152Zm64 220h70c41 0 68-24.9 68-68 0-42.5-27.2-68-68-68h-70v136Z" fill="url(#stroke512)" />
+  <path d="M388 380H232v-64h154l-92-116 42-42 142 178v44h-90Z" fill="url(#stroke512)" />
+</svg>

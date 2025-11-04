@@ -9,7 +9,11 @@ const ScrollRestoration = () => {
       return;
     }
 
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    const prefersReducedMotion =
+      typeof window.matchMedia === 'function' &&
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    window.scrollTo({ top: 0, behavior: prefersReducedMotion ? 'auto' : 'smooth' });
   }, [pathname]);
 
   return null;
