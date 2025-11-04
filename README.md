@@ -39,6 +39,14 @@ npm run preview
 
 > **Netlify Forms**: The contact form ships with Netlify form attributes (`data-netlify="true"`). When deploying to Netlify, no additional configuration is needed for submissions to work.
 
+## 🌐 Deploying to GitHub Pages
+
+```bash
+npm run deploy
+```
+
+This command builds the project and publishes the `dist` directory to the `gh-pages` branch via the `gh-pages` CLI. Client-side routing now uses a hash-based router so deep links continue to work once the site is hosted on GitHub Pages.
+
 ## 🧱 Project Structure
 
 ```
